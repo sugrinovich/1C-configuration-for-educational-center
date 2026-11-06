@@ -36,7 +36,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/sugrinovich/1-.git
+   git clone https://github.com/sugrinovich/1C-configuration-for-educational-center.git
    ```
 
 2. Откройте стартовое окно 1С:Предприятия и нажмите **Добавить → Добавление в список существующей информационной базы**.
